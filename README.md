@@ -24,11 +24,11 @@
 git clone https://github.com/Ahmed-Osama2022/css-course-calc.git 
 ```
 ---
-### This was made by Ahmed Osama
----
-
 ## Link to Osama Elzero CSS Course:
 
 ```
 https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe
 ```
+---
+### This was made by Ahmed Osama
+---
