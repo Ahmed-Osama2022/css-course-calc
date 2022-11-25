@@ -79,6 +79,10 @@ body {
 
 /* Style for name "Osama" */
 .heading p {
+    text-align: center;
+
+}
+.heading p:last-child {
     color: #fc0000;
     font-weight: 600;
     font-style: italic;
