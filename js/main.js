@@ -20,11 +20,13 @@ result.addEventListener('click', (e) => {
    
     
     let num = input.value;
+    let absNum = Math.abs(num);
+
     // For test:
     // console.log(num);
 
     // Check if the user enter a value bigger than 88!!
-    if (num > 88) {
+    if (absNum > 88) {
         error.style.display = 'block';
         setTimeout(() => {
             error.style.display = 'none';
@@ -37,7 +39,7 @@ result.addEventListener('click', (e) => {
            }, 1150);
         // Using the formula:
         let output ;
-        output = (num * 100) / 88;
+        output = (absNum * 100) / 88;
         // For test:
         // console.log(output);
         // console.log(typeof(output));
